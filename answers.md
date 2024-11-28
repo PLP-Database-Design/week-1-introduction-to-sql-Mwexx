@@ -1,24 +1,3 @@
-# SQL Assignment Week 1
-
-
-## *What You'll Need*
-- A computer with internet access.
-- A code editor (e.g., Visual Studio Code).
-- MySQL Workbench or another SQL database environment.
-
----
-
-
-
-## *Submission Instructions*
-1. Answer every question below and put your responses in a file named `answers.md`
-2. Push your completed `answers.md` file to your GitHub repository.
-3. Submit the GitHub link for review.
-
----
-
-## **Assignment Questions**
-
 1. State and Explain the components of a DBMS(Database Management System)
 a.Database Engine-It handles the interactions with the data stored in the database.
 b.Database Schema-It provides the blueprint or design for the database.
@@ -29,7 +8,7 @@ f.Security Management-It defines access control policies, user authentication, a
  
 3. What is a relational database? Give 4 examples.
 -A relational database is a type of database that stores data in a structured format, using rows and columns within tables.
-
+Examples;MySQL, SQLite, Oracle Database, MariaDB.
 5. State and Explain three classifications of SQL?
 a.Data Manipulation Language-This commands are used for managing and manipulating the data within the database tables.
 b.Data Defination Language-Are used to define and modify the structure of database objects, such as tables, indexes and views.
@@ -61,7 +40,3 @@ d.Boolean.
  
 15. What is the purpose of a database management system (DBMS)?  
 -Is to efficiently manage and organize data, allowing users to store, retrieve, update and manipulate data in a structured and secure mannerr.
-
-*How to edit a [markdownfile](https://www.markdownguide.org/basic-syntax/#headings)*
-
-###  NOTE: You should not fork the repository
